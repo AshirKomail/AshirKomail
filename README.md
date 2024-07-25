@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashir Komail
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning Flutter development
+- 👀 I’m interested in Generative AI
+- 🌱 I’m currently learning prompt engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
